@@ -96,7 +96,7 @@ if ($result -eq [System.Windows.Forms.DialogResult]::OK)
     Set-ItemProperty -Path $RegistryPath -Name "livesplit_connect_address" -Value $livesplit
     Set-ItemProperty -Path $RegistryPath -Name "multiplexer_address" -Value $multiplexer
     Set-ItemProperty -Path $RegistryPath -Name "client_id" -Value $clientID
-    .\grpc-multiplexer-client --client-id $clientID --multiplexer-address $multiplexer
+    .\grpc-multiplexer-client --client-id $clientID --multiplexer-address $multiplexer --grpc-server-address $livesplit
 }
 
 Write-Output "Press Any Key to Exit"
