@@ -7,8 +7,8 @@ from urllib.request import urlopen
 from typing import TextIO
 from zipfile import ZipFile
 
-LIVESPLIT_CONNECT_VERSION = "0.1.1"
-GRPC_MULTIPLEXER_VERSION = "0.1.0"
+LIVESPLIT_CONNECT_VERSION = "0.2.0"
+GRPC_MULTIPLEXER_VERSION = "0.2.1"
 
 LIVESPLIT_CONNECT_DOWNLOAD_URL = f"https://github.com/fuhrmannb/LiveSplit.Connect/releases/download/v{LIVESPLIT_CONNECT_VERSION}/LiveSplit.Connect_{LIVESPLIT_CONNECT_VERSION}_Windows_x86_64.zip"
 GRPC_MULTIPLEXER_DOWNLOAD_URL = f"https://github.com/fuhrmannb/grpc-multiplexer/releases/download/v{GRPC_MULTIPLEXER_VERSION}/grpc-multiplexer_{GRPC_MULTIPLEXER_VERSION}_Windows_x86_64.zip"
