@@ -24,9 +24,9 @@ _To be setup only once. If you manage multiple layouts, this operation has to be
 
 ![LiveSplit - Add Connect component](https://github.com/fuhrmannb/LiveSplit.Connect/raw/main/docs/livesplit_add-connect.png)
 
-3. After a double click on _LiveSplit Connect_, tick _Start server on launch_ checkbox:
+3. After a double click on _LiveSplit Connect_, tick _Start server on launch_ and _Read Only_ checkboxes:
 
-![LiveSplit - Connect component options](https://github.com/fuhrmannb/LiveSplit.Connect/raw/main/docs/livesplit_connect-options.png)
+![LiveSplit - Connect component options](docs/livesplit_connect_cfg.png)
 
 4. Save your layout and restart LiveSplit to take changes into account.
 
