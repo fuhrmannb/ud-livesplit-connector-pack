@@ -52,7 +52,7 @@ Avant chaque tournoi ou autre événement nécessitant de connecter le timer sur
 
 Pour se déconnecter, il suffit simplement de fermer la console.
 
-_Pour les curieux, ce programme permet de connecter le composant précédent de LiveSplit au server multiplexeur installé sur le servuer de l'UD. Plus de détails [ici](https://github.com/fuhrmannb/grpc-multiplexer/)._
+_Pour les curieux, ce programme permet de connecter le composant précédent de LiveSplit au server multiplexeur installé sur le serveur de l'UD. Plus de détails [ici](https://github.com/fuhrmannb/grpc-multiplexer/)._
 
 ## En cas de soucis
 
