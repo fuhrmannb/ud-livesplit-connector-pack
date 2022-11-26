@@ -44,7 +44,7 @@ Avant chaque tournoi ou autre événement nécessitant de connecter le timer sur
 
     ![Interface UD Multiplexer Client](docs/ud_multiplexer_client.png)
 
-   Ne pas changer les deux premiers champs. Inscrire son pseudo dans le champ _Nickname_ (**le pseudo doit être le même que celui du site web de l'UD**).
+   Ne pas changer les deux premiers champs. Inscrire son **login Twitch** dans le champ _Nickname_.
 
    _Note: à la prochaine ouverture du programme, ces informations seront déjà renseignées._
 

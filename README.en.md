@@ -44,7 +44,7 @@ Before each event that needs to connect your timer to the UD multiplexer, you ha
 
      ![UD Multiplexer Client UI](docs/ud_multiplexer_client.png)
 
-   Don't change the first two fields. Specify your nickname in the _Nickname_ field (**nickname should be the same as the one specified on the UD website**).
+   Don't change the first two fields. Specify your **Twitch login** in the _Nickname_ field.
 
    _Note: At the next program startup, the fields will already been filled._
 
